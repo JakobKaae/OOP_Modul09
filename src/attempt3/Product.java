@@ -1,3 +1,5 @@
+package attempt3;
+
 public class Product
 {
     //Create attributes for every product inherited by this class
@@ -32,6 +34,4 @@ public class Product
         return "ID: " + id + " name: " + name +  " Price: " + price;
     }
     
-    
-    
-}
+}   
